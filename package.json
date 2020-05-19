@@ -1,6 +1,6 @@
 {
   "name": "todolist-funcs",
-  "version": "1.0",
+  "version": "",
   "description": "",
   "scripts" : {
     "test": "echo \"No tests yet...\""
