@@ -12,10 +12,10 @@ variables:
   azureSubscription: '1a9c5bd5-077d-46c5-920b-ed1c89235c8f'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'todolist-funcs'
  
   # Environment name
-  environmentName: ''
+  environmentName: 'dev'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
